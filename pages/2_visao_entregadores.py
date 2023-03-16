@@ -100,7 +100,7 @@ df1 = clean_code(df)
 
 st.header ('Marketplace - Visão Entregadores')
 
-st.sidebar.markdown('# Cury Company')
+st.sidebar.markdown('# Curry Company')
 st.sidebar.markdown('## Fatest Delivery in Town')
 st.sidebar.markdown("""---""")
 
