@@ -123,7 +123,7 @@ def avg_std_time_on_traffic(df1):
 # ==============================================================================
 
 #import dataset
-df = pd.read_csv('dataset\\train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # Limpando os dados
 df1 = clean_code(df)
