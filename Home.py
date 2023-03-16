@@ -5,7 +5,7 @@ st.set_page_config(
     page_title = "Home",
 )
 
-st.sidebar.markdown('# Cury Company')
+st.sidebar.markdown('# Curry Company')
 st.sidebar.markdown('## Fatest Delivery in Town')
 st.sidebar.markdown("""---""")
 
