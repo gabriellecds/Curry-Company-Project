@@ -20,8 +20,10 @@ st.markdown(
         - Visão tática: indicadores semanais de crescimento. 
         - Visão Geográfica: insights de geolocalização.
     
+    
     - Visão Entregador: 
         - Acompanhamento dos indicadores semanais de crescimento. 
+        
         
     - Visão Restaurante:
         - Indicadores semanais de crescimento dos restaurantes. 
